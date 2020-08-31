@@ -1,0 +1,17 @@
+body {
+    background-color: blueviolet;
+}
+
+p {
+    width: 100px;
+    height: 100px;
+    background-color: red;
+}
+
+.color-blue {
+    background-color: blue;
+}
+
+.transparency {
+    background-color: rgba(255, 0, 0, 0.363); 
+}
